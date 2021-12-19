@@ -18,5 +18,5 @@ Install my-project with npm
 
 ![App Screenshot](./images/expenseApp-view1.jpg)
 
-![App Screenshot](./images/expenseApp-view.jpg)
+![App Screenshot](./images/expenseApp-view2.jpg)
 
